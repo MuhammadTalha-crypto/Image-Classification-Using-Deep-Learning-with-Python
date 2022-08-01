@@ -16,3 +16,6 @@ Here is the complete Article on Image Classification
 https://t.ly/tUij
 # Link to the ImagetName1000Classes.txt file
 https://drive.google.com/file/d/1Q4Borr4CcblTYfzk00CPKDB__vvGELNv/view
+
+# Link to Complete Video Tutorial
+https://www.youtube.com/watch?v=CnJC2kj3jxg
