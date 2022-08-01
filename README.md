@@ -14,7 +14,7 @@ In this project we will perfrom single and multi-Label Classfication using Deep 
 # Link to the Complete Article 
 Here is the complete Article on Image Classification
 https://t.ly/tUij
-# Link to the ImagetName1000Classes.txt file
+# Link to the ImageName1000Classes.txt file
 https://drive.google.com/file/d/1Q4Borr4CcblTYfzk00CPKDB__vvGELNv/view
 
 # Link to Complete Video Tutorial
